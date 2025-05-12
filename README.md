@@ -13,7 +13,6 @@ Created by ZeroTrace as part of an offensive security/red team portfolio.
 - 🎮 **C2 Server** — Simple interactive shell listener
 - 🎣 **Phishing Server** — Hosts a fake login page on HTTP
 
-
 ## ▶️ HOW TO RUN
 
 1. ** Run application:**
