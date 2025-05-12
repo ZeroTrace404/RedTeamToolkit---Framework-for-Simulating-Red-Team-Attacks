@@ -86,7 +86,7 @@ def main():
     print("""
     -------------------------
      RedTeamToolkit v1.0
-     For lab/educational use
+     For lab/educational use developed by ZeroTrace
     -------------------------
     """)
     print("[1] Port Scan")
