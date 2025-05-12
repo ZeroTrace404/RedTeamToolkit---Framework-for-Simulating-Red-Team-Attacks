@@ -14,16 +14,6 @@ Created by ZeroTrace as part of an offensive security/red team portfolio.
 - 🎣 **Phishing Server** — Hosts a fake login page on HTTP
 
 
-## 📂 Project Structure
-
-RedTeamToolkit/
-├── payloads/
-│   └── reverse_shell.py        # automatically generated
-├── web/
-│   └── index.html              # phishing login page
-├── RedTeamToolkit.py           # main file           
-└── README.md                   # user manual
-
 ## ▶️ HOW TO RUN
 
 1. ** Run application:**
